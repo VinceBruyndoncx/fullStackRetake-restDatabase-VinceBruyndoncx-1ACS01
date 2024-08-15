@@ -1,0 +1,190 @@
+{
+"products": [
+[
+"Acetaminophen 500mg",
+"Pain reliever and fever reducer",
+"Medication",
+4.99,
+1,
+"assets/products/acetaminophen.jpg"
+],
+[
+"Ibuprofen 200mg",
+"Nonsteroidal anti-inflammatory drug (NSAID)",
+"Medication",
+5.49,
+1,
+"assets/products/ibuprofen.jpg"
+],
+[
+"Cetirizine 10mg",
+"Antihistamine for allergy relief",
+"Medication",
+7.99,
+1,
+"assets/products/cetirizine.jpg"
+],
+[
+"Multivitamin Tablets",
+"Daily multivitamin supplement",
+"Supplement",
+12.99,
+0,
+"assets/products/multivitamin.jpg"
+],
+[
+"Vitamin C 1000mg",
+"Immune system support",
+"Supplement",
+9.49,
+0,
+"assets/products/vitaminC.jpg"
+],
+[
+"Band-Aids",
+"Adhesive bandages for minor cuts",
+"First Aid",
+3.29,
+0,
+"assets/products/bandAid.jpg"
+],
+[
+"Hydrocortisone Cream 1%",
+"Anti-itch cream for skin irritations",
+"Topical",
+4.79,
+0,
+"assets/products/hydrocortisone.jpg"
+],
+[
+"Cough Syrup",
+"Relieves cough and throat irritation",
+"Medication",
+8.99,
+0,
+"assets/products/coughSyrup.jpg"
+],
+[
+"Antacid Tablets",
+"Chewable tablets for heartburn relief",
+"Medication",
+6.29,
+0,
+"assets/products/antacid.jpg"
+],
+[
+"Aspirin 81mg",
+"Low-dose aspirin for heart health",
+"Medication",
+2.99,
+0,
+"assets/products/aspirin.jpg"
+],
+[
+"Thermometer",
+"Digital thermometer for measuring body temperature",
+"Medical Device",
+15.99,
+0,
+"assets/products/thermometer.jpg"
+],
+[
+"Nasal Spray",
+"Decongestant nasal spray",
+"Medication",
+6.89,
+0,
+"assets/products/nasalSpray.jpg"
+],
+[
+"Fish Oil Capsules",
+"Omega-3 fatty acid supplement",
+"Supplement",
+14.99,
+0,
+"assets/products/fishOil.jpg"
+],
+[
+"Hand Sanitizer",
+"Kills 99.9% of germs on hands",
+"Hygiene",
+2.99,
+0,
+"assets/products/handSanitiser.jpg"
+],
+[
+"Calcium Tablets",
+"Calcium supplement for bone health",
+"Supplement",
+8.49,
+0,
+"assets/products/calciumTablets.jpg"
+],
+[
+"Gauze Pads",
+"Sterile gauze pads for wound care",
+"First Aid",
+3.79,
+0,
+"assets/products/gauzePads.jpg"
+],
+[
+"Antibacterial Ointment",
+"Topical ointment for preventing infections",
+"Topical",
+5.49,
+0,
+"assets/products/antibacterialOintment.jpg"
+],
+[
+"Zinc Lozenges",
+"Immune support with zinc and vitamin C",
+"Supplement",
+4.99,
+0,
+"assets/products/zinc.jpg"
+],
+[
+"Saline Solution",
+"Sterile saline for wound care and contact lenses",
+"First Aid",
+7.29,
+0,
+"assets/products/salineSolution.jpg"
+],
+[
+"Blood Pressure Monitor",
+"Automatic blood pressure monitor",
+"Medical Device",
+29.99,
+0,
+"assets/products/bloodPressureMonitor.jpg"
+]
+],
+"bestSellers": [
+[
+"Acetaminophen 500mg",
+"Pain reliever and fever reducer",
+"Medication",
+4.99,
+1,
+"assets/products/acetaminophen.jpg"
+],
+[
+"Ibuprofen 200mg",
+"Nonsteroidal anti-inflammatory drug (NSAID)",
+"Medication",
+5.49,
+1,
+"assets/products/ibuprofen.jpg"
+],
+[
+"Cetirizine 10mg",
+"Antihistamine for allergy relief",
+"Medication",
+7.99,
+1,
+"assets/products/cetirizine.jpg"
+]
+]
+}
